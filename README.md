@@ -32,8 +32,8 @@ pip install streamlit pandas requests beautifulsoup4 openpyxl xlsxwriter
 
 ### Quick Install
 ```bash
-git clone <repository-url>
-cd linkedin-profile-scraper
+gh repo clone InfinityM10/Linkedin-scraper
+cd linkedin-scraper
 pip install -r requirements.txt
 ```
 
